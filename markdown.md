@@ -1,18 +1,3 @@
----
-title: "Untitled"
-output: 
-  revealjs::revealjs_presentation:
-    transition: fade
-    self_contained: false
-    reveal_plugins: ["search", "zoom", "notes", "chalkboard"]
-    reveal_options:
-      slideNumber: true
-      previewLinks: true
-      chalkboard: 
-        theme: whiteboard
-        toggleNotesButton: true
----
-
 # My example
 This is an example of a presentation
 
